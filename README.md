@@ -51,14 +51,14 @@ Additional description about the project and its features.
 ## Getting Started
 ### Usage
 To have this app on your pc, you need to:
-* [download](https://github.com/javitocor/eCommerce-Site-Django/archive/main.zip) or clone this repo:
+* [download](https://github.com/Meserat/django-ecommerce/archive/refs/heads/main.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:javitocor/eCommerce-Site-Django.git
+    https://github.com/Meserat/django-ecommerce.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/javitocor/eCommerce-Site-Django.git
+   https://github.com/Meserat/django-ecommerce.git
   ```
 
 ## Author

@@ -18,12 +18,7 @@ Things you may want to c<!--
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url] 
-[![Forks][forks-shield]][forks-url] 
-[![Stargazers][stars-shield]][stars-url] 
-[![Issues][issues-shield]][issues-url] 
-![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg) 
-
+[]
 # eCommerce Website - Django
 
 >  eCommerce website built with Django. Logged and non-logged users can add items to the cart, fill up the shipment form and get ready to receive their shopping list.
@@ -88,11 +83,4 @@ This project is [MIT](lic.url) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/eCommerce-Site-Django.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/eCommerce-Site-Django/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/eCommerce-Site-Django.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/eCommerce-Site-Django/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/eCommerce-Site-Django.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/eCommerce-Site-Django/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/eCommerce-Site-Django.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/eCommerce-Site-Django/issuesover:
+

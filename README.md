@@ -75,7 +75,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments 🚀
 
 - Django Docs
-- [Dennis Ivy](https://twitter.com/dennisivy11)
 
 ## 📝 License
 
